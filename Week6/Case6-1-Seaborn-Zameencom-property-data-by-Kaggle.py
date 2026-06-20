@@ -23,7 +23,7 @@ data = pd.DataFrame({'x': np.arange(100), 'y': np.random.rand(100).cumsum()})
 
 # Set the theme
 sns.set_theme(style='darkgrid')
-# Alternatively
+# Alternativelydet
 # sns.set_style('darkgrid')
 
 # Create a plot
